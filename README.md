@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @savkethram
+- 👋 Hi, this a new Organization for DevOps ensthusiasts
 - 👀 I’m interested in DevOps projects
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
